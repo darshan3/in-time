@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "In Time",
+  "description": "A chrome extension to track time",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup/index.html",
+    "default_icon": "back-in-time.png"
+  }
+}
